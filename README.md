@@ -5,16 +5,18 @@ Author: JW
 
 One possible solution for homework is provided in 'answer_v2.py'.
 
-Here are two methods to test the solution.
-### Use normal tests
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
+Here are two aspects to ensure the correctness of the solution.
+### Run tests through main function
+In main function, set test file as signal content. Check the outputs 
+printed on consulo in different cases.
+>  ## For example,
 >
-> ## This is an H2 in a blockquot
+> signal = signals(content='more_planes.txt')
+> 
+> signal.signalIndex(6)
 
 ### Use unittest
 
 > line1
+>
 > line2
