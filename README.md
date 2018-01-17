@@ -1,18 +1,20 @@
-Author: JW
+Solution
 ====================
-Answer
+Author: JW
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+One possible solution for homework is provided in 'answer_v2.py'.
 
-The quick brown fox jumped over the lazy
-dog's back.
-### Header 3
+Here are two methods to test the solution.
+### Use normal tests
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
 > ## This is an H2 in a blockquot
+
+### Use unittest
+
+> line1
+> line2
