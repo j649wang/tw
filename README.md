@@ -3,9 +3,12 @@ Solution
 Created on Wed Jan 17
 
 Author: JW
+
+Introduction
 ---------------------
 
 Environment: Python 3.5.4
+
 Package Used: unittest
 
 One possible solution for homework is provided in 'answer_v2.py'.
